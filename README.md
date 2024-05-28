@@ -22,7 +22,7 @@ Here's a quick guide to understanding the key fields in each dataset:
 - **transcript.json**: Records of customer events like offer received, viewed, and completed, along with transaction details.
 
 ## Results
-For detailed insights and findings, refer to the "Starbucks Capstone - Ibrahim.pdf" file included in this repository. Our analysis explores how different offers influence customer behavior and which demographic segments respond most effectively to various types of offers.
+For detailed insights and findings, refer to the "Starbucks Capstone Challenge.pdf" file included in this repository. Our analysis explores consumer behaviour and how they impact their offer interactions.
 
 ## Licensing, Authors, and Acknowledgements
-This project and the accompanying data are courtesy of Starbucks. The analyses and insights derived from this data are for educational purposes within the Udacity Data Scientist Nanodegree program. Please feel free to reach out for any questions or further discussions. Happy analyzing!
+This project and the accompanying data are courtesy of Starbucks. The analyses and insights derived from this data are for educational purposes within the Udacity Data Scientist Nanodegree program. Happy analyzing!
